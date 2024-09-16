@@ -1,0 +1,18 @@
+#miParrafo{
+    font-size: 18px;
+    color: #333;
+    margin: 20px 0;
+    padding: 10PX;
+    background-color: white;
+    border-left: 4px solid #51ff00;
+
+}
+#miBoton{
+    font-size: 16px;
+    padding: 10px 20px;
+    background-color: #62a9f4;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+
+}

@@ -1,0 +1,14 @@
+#miBoton{
+    font-size: 18px;
+    padding-top: 10px 20px;
+    background-color: cornflowerblue;
+    color: aquamarine;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: bacground-color 0,3s ease;
+
+}
+#miBoton :hover{
+    background-color:cadetblue ;
+}
